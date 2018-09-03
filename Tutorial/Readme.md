@@ -1,3 +1,3 @@
-# DNN with PyTorch 
+# PyTorch Tutorial
 
-Pytorch Examples and Materials
+Pytorch Tutorials
